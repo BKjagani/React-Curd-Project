@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm run json-server`
-Runs the server the development mode.\
+Runs the JSON server in development mode. This command starts the server that provides a mock API for your application.
 
 ### `npm start`
 
